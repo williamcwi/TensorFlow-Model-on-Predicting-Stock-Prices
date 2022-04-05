@@ -1,1 +1,0 @@
-[replace with Alpha Vantage api key - key can be claimed here: https://www.alphavantage.co/support/#api-key]
